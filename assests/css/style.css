@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Sofia");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro");
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  /* font-family: 'Crimson Pro', serif;  */
+  font-family: 'Bungee Spice', cursive; 
+  background-color: black;
+}
+
+/* *{ font-family: 'Crimson Pro', serif; 
+  font-family: "sofia", sans-serif;   
+  font-family: 'Bungee Spice', cursive; 
+ } */
+
+.clock{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 4rem;
+}
+
+
+
+
+
